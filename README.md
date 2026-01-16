@@ -1,5 +1,5 @@
 # Controler un **Diverter** avec son navigateur internet préféré
-Vous trouverez ici une configuration yaml esphome pour le module **wifi** de votre choix. Elle vous permettra, en plus des fonctions natives du **diverter**, d'ajouter son contrôle à distance directement depuis votre navigateur **web** préféré.
+Vous trouverez ici une configuration yaml esphome pour le module **wifi** de votre choix. Elle vous permettra, en plus des fonctions natives du **diverter**, d'ajouter son contrôle à distance directement depuis votre navigateur **web** préféré, pc ou smartphone.
 
 - [Introduction](#Introduction)
 - [Fonctionnalités](#Fonctionnalités)

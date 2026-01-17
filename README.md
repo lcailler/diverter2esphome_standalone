@@ -43,7 +43,7 @@ La configuration disponible ici est adaptée à un [Sonoff Basic R2](https://dev
 Avec quelques adaptations **mineures**, vous pourrez adapter cette configuration a d'autres modules wifi. Vous trouverez la liste exhautive de plus de 200 modules wifi supportés en suivant ce lien : https://devices.esphome.io/standards/global.
 
 <p align="center">
-<img src="https://edn.com/electroschematics/wp-content/uploads/2019/04/2-Sonoff-Basic_Inside-T.jpg" width="500">
+<img src="https://devices.esphome.io/assets/images/Sonoff-BASIC-R2-v1.4_pcb-91413dd2dfff7c370d2c18685c91cac2.jpg" width="500">
 </p>
 
 ---
@@ -70,7 +70,9 @@ Attention a ne pas utiliser le signal 3.3v pour alimenter un module wifi. La qua
 
 Autre détail technique, les signaux tx/rx du diverter sont compatibles signaux ttl 3.3v.
 
+<p align="center">
 <img src="http://lionel.wiki.free.fr/download/projets/diverterV1_7_20190705/connect_diverter_03.png" width="400">
+</p>
 
 ### première mise sous tension :
 
